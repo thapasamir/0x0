@@ -1,5 +1,5 @@
 # 0x0
-###A simple tool to upload video and download video in 0x0.st
+### A simple tool to upload video and download video in 0x0.st
 
 #### options:
 #####  -h, --help          show this help message and exit
