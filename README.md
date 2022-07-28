@@ -6,4 +6,4 @@
   #####    -init INIT                       [ !!Note ] First command to run which is used to setup the program
   #####    -file FILE                       [ !!Upload ] Take url location of video and give output as 0x0.st link
   #####    -password PASSWORD               [ !! Setup password ] Take password and save it in a safe location
-  #####    -mail YOUR_MAIL TO_SEND_MAIL     [ !!Send video url to email ]
+  #####    -mail YOUR_MAIL TO_SEND_MAIL     [ !!Send mail] send the link of video from your email to destination mail
